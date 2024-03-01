@@ -1,0 +1,55 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    min-width: 300px;
+    text-align: left;
+}
+h1 {
+    text-align: center;
+    font-size: 25px;
+}
+.mdl-js-data-table{
+    font-size: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.mdl-data-table {
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.mdl-data-table__cell--numeric{
+    font-size: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}        
+.mdl-textfield{
+    width: 100%;
+    margin-bottom: 10px;
+    min-width: 270px;
+    height: 36px;
+    font-size: 20px;
+}
+.mdl-textfield__imput{
+    font-size: 20px;
+    width: 100%;
+}
+.mdl-button{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.mdl-button--raised{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.mdl-button--primary{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 20px;  
+}
