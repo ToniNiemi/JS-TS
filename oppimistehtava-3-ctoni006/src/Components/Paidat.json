@@ -1,0 +1,38 @@
+[
+    {
+        "paitaNimi":"paita1",
+        "Kuva": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUFmGl0849w4Ujebwo6vqb8awrFzg7vH1Xw&usqp=CAU",
+        "Hinta":30,
+        "alennus": 20
+    },
+    {
+        "paitaNimi":"paita2",
+        "Kuva": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw90jzyttUIee-1wDgqgVPs5brROPKl9yErw&usqp=CAU",
+        "Hinta":35,
+        "alennus": 20
+    },
+    {
+        "paitaNimi":"paita3",
+        "Kuva": "https://cdn.shopify.com/s/files/1/1169/3800/products/babelyogohorrortee_grande.jpg?v=1647956491",
+        "Hinta":32,
+        "alennus": 20
+    }, 
+    {
+        "paitaNimi":"paita4",
+        "Kuva": "https://www.leatherheaven.com/storage/product_images/8/listaus_MiestenT-paitaSupermansin._TP1288_3a9e1ffaf17cb7d42ba01cc650242571_1.jpg",
+        "Hinta":31,
+        "alennus": 20
+    },
+    {
+        "paitaNimi":"paita5",
+        "Kuva": "https://ctl.s6img.com/society6/img/vd-Rn477pQUMojWJC_f5zTnVvlM/w_700/tshirts/men/greybg/black/~artwork,bg_FFFFFFFF,fw_3300,fh_5100,fx_-475,iw_4250,ih_5100/s6-original-art-uploads/society6/uploads/misc/4f4b81f3a8014f018742850f300718ba/~~/coding-is-my-cardio-funny-cs-software-developer-design-tshirts.jpg?wait=0&attempt=0",
+        "Hinta":14,
+        "alennus": 20
+    },
+    {
+        "paitaNimi":"paita6",
+        "Kuva": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTb6p-0FhyAZ68Qt8Upw79G27fBjMaL5-4-Q&usqp=CAU",
+        "Hinta":12,
+        "alennus": 20
+    }
+]

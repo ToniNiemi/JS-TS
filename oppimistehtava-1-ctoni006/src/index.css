@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: lightcoral
+}
+
+input {
+    margin: 10px;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: lightgreen;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lightblue;
+}

@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: lightgreen;
+  
+}
+
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 30vw;
+  border-style: solid;
+  border-color: darkslategrey;
+  border-radius: 10px;
+  text-align: left;
+  font-weight: 900;
+}
+
+th,
+td {
+  width: 100%;
+  margin: auto;
+  border-style: solid;
+  border-color: darkslategrey;
+}
+
+th {
+  font-weight: 700;
+}
+
+td {
+  font-weight: 500;
+}
